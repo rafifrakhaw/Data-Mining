@@ -1,0 +1,11 @@
+Country,Age,Salary,Purchased
+vietnam,42,50000,no
+korea,35,58000,yes
+kamboja,33,65000,no
+korea,41,85000,no
+kamboja,47,,yes
+vietnam,32,72000,no
+korea,,71000,yes
+vietnam,45,66000,no
+kamboja,31,90000,yes
+vietnam,39,66000,yes
